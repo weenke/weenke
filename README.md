@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Doctoral reaserch student in the [Cellular Engineering group](https://www.aalto.fi/en/department-of-bioproducts-and-biosystems/cellular-engineering) at Aalto University.
+This is more of personal page, since most of the things here are not directly related to my research and are more so of a hoddy/fun/usefull things that I try to do in my free time. 😊
 <!--
 **weenke/weenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
